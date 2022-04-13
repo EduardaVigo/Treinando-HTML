@@ -1,2 +1,2 @@
 # Treinando-HTML
-Iniciando meus estudos na linguagem em HTML :)
+Iniciando meus estudos em HTML :)
