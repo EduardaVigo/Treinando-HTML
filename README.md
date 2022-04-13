@@ -1,2 +1,2 @@
 # Treinando-HTML
-Todo o meu progresso com HTML.
+Iniciando meus estudos na linguagem em HTML :)
